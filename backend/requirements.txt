@@ -145,7 +145,7 @@ Jinja2==2.9.6
 jsonschema==2.6.0
 keyring==11.0.0
 lazy-object-proxy==1.2.2
-lxml==3.7.3
+lxml==4.6.3
 MarkupSafe==1.0
 msgpack-numpy==0.4.1
 msgpack-python==0.5.4
